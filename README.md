@@ -1,17 +1,15 @@
-## 👋Hi, all, I'm Jose Ángel Peña Díaz (joseang1)
+## 👋 Hi, all, I'm Jose Ángel Peña Díaz (joseang1)
 
 I'm a new programmer who's eager to learn more about this world, how it works and everything in between!
 
-## 💡About me
+## 💡 About me
 
 - 🏫 I'm a higher technician in production of audiovisual projects and shows
 - 🖥️ At the moment, I'm working towards learning code and web-development
 - 🏃 I love to be active on the internet, always watching for new content to learn
-- 🗨️ My pronouns are he/him
-
-## ⌛Current Stack
-
-At the moment I'm not working with any stack, though I'm in the process of learning how to code with JavaScript
+- 🕹️ My pronouns are he/him
+- ⌛ At the moment I'm not working with any stack, though I'm in the process of learning how to code with JavaScript
+- ❤️ In my free time I love to waste my time video-editing, and I'd love to create a website for it to work as a portfolio 
 
 <!--
 **joseang1/joseang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
