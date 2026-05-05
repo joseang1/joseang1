@@ -9,7 +9,7 @@ I'm a new programmer who's eager to learn more about this world, how it works an
 - 🏃 I love to be active on the internet, always watching for new content to learn
 - 🕹️ My pronouns are he/him
 - ⌛ At the moment I'm not working with any stack, though I'm in the process of learning how to code with JavaScript
-- ❤️ In my free time I love to waste my time video-editing, and I'd love to create a website for it to work as a portfolio 
+- ❤️ In my free time I love to waste my time video-editing, and I'd love to create a website and use it as my portfolio!
 
 <!--
 **joseang1/joseang1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
